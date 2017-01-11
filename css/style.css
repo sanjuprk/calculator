@@ -1,0 +1,12 @@
+table,td,th{
+	border : 1px solid black;
+}
+
+th{
+	padding : 12.5px;
+}
+
+td{
+	padding : 10px;
+}
+
